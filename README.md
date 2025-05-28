@@ -1,4 +1,5 @@
 # heart-disease-diagnosis-model
+This project applies multiple machine learning algorithms — Logistic Regression, SVM, Random Forest, and LightGBM — to predict heart disease using patient clinical data. It covers data preprocessing, feature scaling, hyperparameter tuning, and performance evaluation with accuracy, classification reports, and ROC-AUC curves for robust prediction analysis.
 # Heart Failure Prediction Using Machine Learning
 
 ## Project Overview
