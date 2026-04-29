@@ -166,9 +166,6 @@ To address the higher cost of false negatives in medical diagnosis:
 
 This project is open source and available under the MIT License
 
-.
-
-
 
 ##### Contact
 
