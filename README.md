@@ -51,19 +51,27 @@ The following machine learning models were implemented and evaluated:
 
 
 
-Model	Accuracy	Precision (0)	Recall (0)	Precision (1)	Recall (1)	F1-Score (Weighted)
+| Model               | Accuracy  | Precision (0) | Recall (0) | Precision (1) | Recall (1) | F1-Score (Weighted) |
 
-Logistic Regression	84.23%	0.77	0.88	0.91	0.81	0.84
+|---------------------|-----------|----------------|-------------|----------------|-------------|----------------------|
 
-SVM	86.41%	0.82	0.86	0.89	0.87	0.86
+| Logistic Regression | 84.23%    | 0.77           | 0.88        | 0.91           | 0.81        | 0.84                 |
 
-Random Forest	89.67%	0.86	0.90	0.92	0.90	0.90
+| SVM                 | 86.41%    | 0.82           | 0.86        | 0.89           | 0.87        | 0.86                 |
 
-LightGBM	88.04%	0.85	0.87	0.90	0.89	0.88
+| Random Forest       | 89.67%    | 0.86           | 0.90        | 0.92           | 0.90        | 0.90                 |
+
+| LightGBM            | 88.04%    | 0.85           | 0.87        | 0.90           | 0.89        | 0.88                 |
 
 
 
-All models were fine-tuned using GridSearchCV for optimal performance.
+> \\\*All models were fine-tuned using GridSearchCV for optimal performance.\\\*
+
+
+
+\---
+
+
 
 
 
@@ -165,6 +173,9 @@ To address the higher cost of false negatives in medical diagnosis:
 ##### License
 
 This project is open source and available under the MIT License
+
+.
+
 
 
 ##### Contact
