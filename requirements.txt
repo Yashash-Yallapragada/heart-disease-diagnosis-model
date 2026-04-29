@@ -4,3 +4,8 @@ scikit-learn
 matplotlib
 seaborn
 lightgbm
+shap
+scipy
+joblib
+jupyter
+notebook
